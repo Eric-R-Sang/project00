@@ -1,1 +1,9 @@
-css-file 
+h1{
+    color: black;
+    border: 20px;
+    text-align: center;
+}
+
+body{
+    background-color:lightblue;
+}
