@@ -11,10 +11,3 @@ body {
   background-size: cover;
   background-color: black;
 }
-
-#name-header {
-  margin: 5px;
-  padding: 12px 12px;
-  border: white;
-  text-align: center;
-}
