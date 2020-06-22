@@ -1,7 +1,7 @@
-a {
+a.nav-link {
   color: white !important;
 }
 
-ul.nav a:hover {
+a.nav-link:hover {
   color: grey !important;
 }
