@@ -5,3 +5,11 @@ a.nav-link {
 a.nav-link:hover {
   color: grey !important;
 }
+
+body {
+  background: url('https://i.pinimg.com/236x/bc/d4/b5/bcd4b523ce14a0f64eece1437f35c684.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
