@@ -21,6 +21,7 @@ a.nav-link:hover {
   color: grey !important;
 }
 
-body {
-
+/* bootstrap padding fix */
+[class*="col-"]{
+    padding: 1rem;
 }
