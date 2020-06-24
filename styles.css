@@ -21,7 +21,7 @@ html, body {
 
 .carousel {
   padding: 10px;
-  border: 6px solid lightgrey;
+  border: 6px solid darkgrey;
 }
 
 .padding {
@@ -118,15 +118,6 @@ hr.light-100 {
 .nav-link a:hover {
   color: grey !important;
 }
-
-/*carousel fix*/
-/*.carousel-item {
-  transition: -webkit-transform 0.5s ease;
-  transition: transform 0.5s ease;
-  transition: transform 0.5s ease; -webkit-transform 0.5s ease;
-  -webkit-backface-visibility: visible;
-  backface-visibility: visible;
-}*/
 
 /* bootstrap padding fix */
 [class*="col-"] {
