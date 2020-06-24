@@ -116,11 +116,11 @@ hr.light-100 {
 }
 
 
-a.nav-link {
+.nav-link a {
   color: white !important;
 }
 
-a.nav-link:hover {
+.nav-link a:hover {
   color: grey !important;
 }
 
