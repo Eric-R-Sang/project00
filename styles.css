@@ -19,9 +19,9 @@ html, body {
   font-size: 1.1em !important;
 }
 
-#first-carousel {
+#first-carousel, #second-carousel, #third-carousel {
   padding: 10px;
-  border: 6px solid #D5D5D5;
+  border: 6px solid #21252b;
 }
 
 .padding {
