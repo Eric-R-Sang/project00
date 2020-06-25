@@ -48,10 +48,6 @@ thead, tbody {
   color: #211F1F;
 }
 
-.fa-google-plus-g {
-  color: #DD4B39;
-}
-
 .fa-instagram {
   color: #517FA8;
 }
@@ -60,11 +56,7 @@ thead, tbody {
   color: #FFFC00;
 }
 
-.fa-discord {
-  color: #7289d9;
-}
-
-.fa-github:hover, .fa-google-plus-g:hover, .fa-instagram:hover, .fa-snapchat:hover, .fa-discord:hover {
+.fa-github:hover, .fa-instagram:hover, .fa-snapchat:hover {
   color: #D5D5D5;
 }
 
@@ -90,6 +82,20 @@ hr.light-100 {
   width: 100%;
   margin-top: .8rem;
   margin-bottom: 1rem;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: RoyalBlue;
 }
 
 /* media queries */
