@@ -7,9 +7,9 @@ html, body {
   color: #222;
 }
 
-thead, tbody {
+/*thead, tbody {
   text-align: center;
-}
+}*/
 
 .navbar {
   padding: .8rem;
@@ -23,10 +23,10 @@ thead, tbody {
   font-size: 1.1em !important;
 }
 
-#first-carousel, #second-carousel, #third-carousel {
+/*#first-carousel, #second-carousel, #third-carousel {
   padding: 10px;
   border: 6px solid #21252b;
-}
+}*/
 
 .padding {
   padding-bottom: 2rem;

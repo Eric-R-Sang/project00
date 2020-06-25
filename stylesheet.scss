@@ -1,1 +1,34 @@
-some-text  
+$padding: 10px;
+
+%carousel {
+  padding: $padding;
+  border: 6px;
+  border-style: solid;
+}
+
+#first-carousel {
+  @extend %carousel;
+  border-color: #21252b;
+}
+
+#second-carousel {
+  @extend %carousel;
+  border-color: #071047;
+}
+
+#third-carousel {
+  @extend %carousel;
+  border-color: #2c063d;
+}
+
+ table {
+   text-align: center;
+
+   thead {
+     color: black;
+   }
+
+   tbody {
+     color: #383836;
+   }
+ }
