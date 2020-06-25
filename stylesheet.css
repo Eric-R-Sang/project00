@@ -1,0 +1,29 @@
+#third-carousel, #second-carousel, #first-carousel {
+  padding: 12px;
+  border: 6px;
+  border-style: solid;
+}
+
+#first-carousel {
+  border-color: #21252b;
+}
+
+#second-carousel {
+  border-color: #071047;
+}
+
+#third-carousel {
+  border-color: #2c063d;
+}
+
+table {
+  text-align: center;
+}
+table thead {
+  color: black;
+}
+table tbody {
+  color: #383836;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
