@@ -16,14 +16,16 @@
   border-color: #2c063d;
 }
 
-table {
+/*table {
   text-align: center;
-}
-table thead {
-  color: black;
-}
-table tbody {
-  color: #383836;
-}
+
+  thead {
+    color: black;
+  }
+
+  tbody {
+    color: #383836;
+  }
+}*/
 
 /*# sourceMappingURL=stylesheet.css.map */
