@@ -7,10 +7,6 @@ html, body {
   color: #222;
 }
 
-/*thead, tbody {
-  text-align: center;
-}*/
-
 .navbar {
   padding: .8rem;
 }
@@ -22,11 +18,6 @@ html, body {
 .nav-link {
   font-size: 1.1em !important;
 }
-
-/*#first-carousel, #second-carousel, #third-carousel {
-  padding: 10px;
-  border: 6px solid #21252b;
-}*/
 
 .padding {
   padding-bottom: 2rem;
