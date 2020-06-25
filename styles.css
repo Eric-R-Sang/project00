@@ -85,7 +85,7 @@ hr.light-100 {
 }
 
 .btn {
-  color: lightblue;
+  background-color: lightblue;
   border: none;
   padding: 12px 30px;
   cursor: pointer;
@@ -94,7 +94,7 @@ hr.light-100 {
 }
 
 .btn:hover {
-  color: RoyalBlue;
+  background-color: RoyalBlue;
 }
 
 /* media queries */
