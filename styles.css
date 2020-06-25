@@ -85,7 +85,7 @@ hr.light-100 {
 }
 
 .btn {
-  background-color: DodgerBlue;
+  background-color: DodgerBlue !important;
   border: none;
   color: white;
   padding: 12px 30px;
