@@ -85,9 +85,8 @@ hr.light-100 {
 }
 
 .btn {
-  background-color: DodgerBlue !important;
+  color: lightblue;
   border: none;
-  color: white;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -95,7 +94,7 @@ hr.light-100 {
 }
 
 .btn:hover {
-  background-color: RoyalBlue;
+  color: RoyalBlue;
 }
 
 /* media queries */
