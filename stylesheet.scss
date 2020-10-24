@@ -1,9 +1,10 @@
-$padding: 12px;
+$padding: 20px;
 
 %carousel {
   padding: $padding;
-  border: 6px;
+  border: 20px;
   border-style: solid;
+  border-color: grey;
 }
 
 #first-carousel {
