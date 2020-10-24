@@ -19,6 +19,11 @@ html, body {
   font-size: 1.1em !important;
 }
 
+.carousel-inner > .item > img {
+  width: 80%;
+  height: 360px;
+}
+
 .padding {
   padding-bottom: 2rem;
 }
