@@ -4,11 +4,13 @@ $padding: 20px;
   padding: $padding;
   border: 10px;
   border-style: solid;
+  
 }
 
 #first-carousel {
   @extend %carousel;
   border-color: #21252b;
+  height: 200px;
 }
 
 #second-carousel {

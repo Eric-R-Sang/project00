@@ -31,6 +31,12 @@ html, body {
   margin-bottom: 1rem;
 }
 
+
+.carousel-inner > .carousel-item > img, .carousel-inner > .carousel-item > a > img {
+  height: 55vh;
+  width: 100vw;
+}
+
 .social a {
   font-size: 4.5em;
   padding: 3rem;
@@ -69,6 +75,32 @@ footer a {
   color: #D5D5D5;
 }
 
+.input, .msg .area {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  border: 2px solid #e9eaea;
+  font-size: 14px;
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.5s ease;
+}
+
+.login .input {
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+}
+
+.login .input:last-child {
+  margin-right: 0;
+}
+
+.msg .area {
+  height: 200px;
+}
+
 hr.light-100 {
   border-top: 1px solid #D5D5D5;
   width: 100%;
@@ -77,15 +109,17 @@ hr.light-100 {
 }
 
 .btn {
-  border: none;
+  border: groove;
+  background: black;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
   text-align: center;
+  color: white;
 }
 
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: royalblue;
 }
 
 /* media queries */
